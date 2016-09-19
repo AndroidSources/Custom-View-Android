@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="morning_img" type="id"/>
+    <item name="week_view" type="id"/>
+    <item name="day_view" type="id"/>
+</resources>
